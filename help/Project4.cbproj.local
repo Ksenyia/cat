@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.07.15 14:28:19.071.cpp,C:\Users\Kseniya\Documents\RAD Studio\Projects\Unit2.cpp=D:\proekt\help\Unit2.cpp</Transaction>
+    <Transaction>2015.07.15 14:28:19.071.h,C:\Users\Kseniya\Documents\RAD Studio\Projects\Unit2.h=D:\proekt\help\Unit2.h</Transaction>
+    <Transaction>2015.07.15 14:28:19.071.dfm,C:\Users\Kseniya\Documents\RAD Studio\Projects\Unit2.dfm=D:\proekt\help\Unit2.dfm</Transaction>
+    <Transaction>2015.07.15 14:28:23.968.cbproj,C:\Users\Kseniya\Documents\RAD Studio\Projects\Project4.cbproj=D:\proekt\help\Project4.cbproj</Transaction>
+    <Transaction>2015.07.15 21:54:28.178.cbproj,D:\proekt\help\Project4.cbproj=D:\proekt\help\Project4.cbproj</Transaction>
+    <Transaction>2015.07.16 00:11:13.891.cbproj,D:\proekt\help\Project4.cbproj=D:\proekt\help\Project4.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
